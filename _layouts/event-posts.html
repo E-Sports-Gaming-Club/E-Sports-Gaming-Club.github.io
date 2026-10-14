@@ -4,11 +4,11 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign posts = paginator.event-posts | default: site.event-posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in event-posts %}
+  {% for post in posts %}
   <li class="post-preview">
     <article>
 
