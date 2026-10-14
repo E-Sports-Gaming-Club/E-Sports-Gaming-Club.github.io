@@ -4,13 +4,10 @@ title: About The Club
 subtitle: Gaming!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are a pretty cool club, with a thriving community of gamers attending RRC Polytechnic!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### What we do
 
-What else do you need?
+We help facilitate a positive an fun gaming community at the college.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+We also organise online and in-person events, such as game nights and tournaments.
