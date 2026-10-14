@@ -8,7 +8,6 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
@@ -183,13 +182,7 @@
        id="path15" /><path
        style="fill:#9c121c;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="M 108.52959,73.094827 97.565212,80.147936"
-       id="path15-2" /><text
-       xml:space="preserve"
-       style="font-size:13.7583px;writing-mode:lr-tb;direction:ltr;fill:#9c121c;fill-opacity:1;stroke:#c1bfc1;stroke-width:0.79375;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="text60"><textPath
-         xlink:href="#path61"
-         id="textPath61"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7583px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1">E-SPORTS GAMING CLUB</textPath></text><path
+       id="path15-2" /><path
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 32.432599,144.79441 c 0,0 65.683241,77.13916 143.109271,-0.37449"
        id="path61" /></g></svg>
